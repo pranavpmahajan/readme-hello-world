@@ -1,2 +1,2 @@
 Hello, world!
-The is Feature text
+Temporary text
